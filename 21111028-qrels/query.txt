@@ -1,0 +1,20 @@
+Q01	How old is Indian civilisation?
+Q02	What is Machine Learning ?
+Q03	Do sparrows still exist?
+Q04	Java or Python or C++ or any other programming language 
+Q05	In which city is the Taj Mahal situated in Uttar Pradesh?
+Q06	What are the goals and applications of Machine Learning 
+Q07	Who is the lord of the universe according to ancient Hindu texts.
+Q08	What is a lipogram in english language?
+Q09	What is gene therapy and when was it discovered
+Q10	Symptoms of parkinson's disease
+Q11	What is segmentation fault in c++?
+Q12	What are Bipolar Junction Transistors
+Q13	Machines in World war
+Q14	Some of famous scientists of all time
+Q15	Which town was mentioned in a popular song from the Hindi film Ghulam named "Aati kya Khandala?"
+Q16	What is singular value decomposition (SVD) in linear algebra?
+Q17	U.S. Military Academy at West Point, New York
+Q18	What are diseases associated with Cholesterol?
+Q19	The smallest number of colors needed to color a graph G?
+Q20	Who won during the World War I?
